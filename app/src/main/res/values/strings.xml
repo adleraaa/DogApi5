@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DogApi5</string>
+    <string name="dog_image">Dog Image</string>
+</resources>
